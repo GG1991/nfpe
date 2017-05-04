@@ -101,9 +101,9 @@ navigation_footer:
 social_links:
   Twitter: https://twitter.com/DavidDarnes
   LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  #Google+: https://plus.google.com/+DavidDarnes
+  #GitHub: https://github.com/daviddarnes
+  #link: https://darn.es
 
 sharing_links:
   Twitter: "#1DA1F2"
