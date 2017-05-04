@@ -92,7 +92,7 @@ navigation_header:
   Elements: /elements/
   Blog: /blog/
   Categories: /categories/
-  Search: /search/
+  LA CONCHA: /search/
   Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
@@ -103,7 +103,7 @@ social_links:
   LinkedIn: https://www.linkedin.com/in/daviddarnes
   #Google+: https://plus.google.com/+DavidDarnes
   #GitHub: https://github.com/daviddarnes
-  #link: https://darn.es
+  link: https://bsc.es
 
 sharing_links:
   Twitter: "#1DA1F2"
