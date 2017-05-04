@@ -94,7 +94,7 @@ navigation_header:
 navigation_footer:
   BSC: 
         url: https://bsc.es
-        logo: assets/bsc.png
+        logo: /assets/bsc.png
 
 social_links:
   Twitter: https://twitter.com/bsccns
