@@ -81,19 +81,17 @@ title: "Simulation y otras cosas locas" # Site name or title, also used in jekyl
 logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "We don't know what were are doing but we do it "
 url: "https://bsc.elisya.org" # Site url, also used in jekyll-seo-tag
-repo: "https://github.com/daviddarnes/alembic"
+repo: "https://github.com/GG1991/nfpe"
 email: "bscAlembic"
-disqus: "alembic-1"
+disqus: ""  #eso creo que podria ser genial si queremos comentarios 
 avatarurl: "" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
+  Elements (lo dejo para que ven lo que se puede usar): /elements/
   Blog: /blog/
   Categories: /categories/
-  YOLO: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
   Created by David Darnes: https://darn.es
