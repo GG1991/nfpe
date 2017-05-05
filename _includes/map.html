@@ -1,3 +1,6 @@
 <div class="map">
+    {%if include.type == "google"%}
   <iframe src="https://www.google.com/maps/d/u/0/embed?mid={{ include.id }}"></iframe>
+    {%elseif include.type == "google"%}
+    soemthingeles
 </div>
