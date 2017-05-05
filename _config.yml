@@ -77,7 +77,7 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Simulation de mierda" # Site name or title, also used in jekyll-seo-tag
+#title: "Simulation de mierda" # Site name or title, also used in jekyll-seo-tag
 #logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "We don't know what were are doing but we do it "
 url: "https://bsc.elisya.org" # Site url, also used in jekyll-seo-tag
