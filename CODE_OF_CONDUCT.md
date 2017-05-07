@@ -3,7 +3,7 @@
 ## When Something Happens
 
 If you see a Code of Conduct violation, follow these steps:
-
+0. kill the individual
 1. Let the person know that what they did is not appropriate and ask them to stop and/or edit their message(s) or commits.
 2. That person should immediately stop the behaviour and correct the issue.
 3. If this doesn’t happen, or if you're uncomfortable speaking up, [contact the maintainers](#contacting-maintainers).
