@@ -81,10 +81,10 @@ title: "BSC PhDs" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/bsc.png" # Site logo, also used in jekyll-seo-tag
 description: "We don't know what were are doing but we do it "
 url: "https://bsc.elisya.org" # Site url, also used in jekyll-seo-tag
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
-disqus: "alembic-1"
-avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+repo: "https://github.com/GG1991/nfpe"
+email: "bscAlembic"
+disqus: ""  #eso creo que podria ser genial si queremos comentarios 
+avatarurl: "" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 8. Site navigation
 navigation_header:
