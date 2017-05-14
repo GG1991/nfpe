@@ -1,5 +1,5 @@
 ---
-title: How a Nuclear Reactor works
+title: How To Calculate a Nuclear Reactor   
 category: Nuclear
 author: Guido Giuntoli
 use_math: true
