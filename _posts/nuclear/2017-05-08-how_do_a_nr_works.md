@@ -11,6 +11,7 @@ Manhattan project was running and scientific progress was fastly being developed
 
 Where are going to try to go into the scientific minds of that time to understand the fission process.
 
+
 {% tikz filename %}
     \draw(0,0) rectangle (4,4);
     \draw(2,0) -- (2,4);
