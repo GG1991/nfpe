@@ -35,7 +35,7 @@ paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: bscboys # jekyll-seo-tag > Owners twitter username
-author: Guido loco # jekyll-seo-tag > default author
+author: Guido Giuntoli # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Pastrana # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
@@ -55,7 +55,7 @@ collections:
     output: true
     description: "BSC thoughts and ideas" # The post list page content
     feature_text: |
-      Welcome to the blog
+      nfpe : Science, scripts and programs
     feature_image: "https://unsplash.it/1300/400?image=1067"
 
 # 6. Jekyll collections settings
